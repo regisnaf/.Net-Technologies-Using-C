@@ -1,0 +1,7 @@
+C:\Users\back\source\repos\ListsLinq\ListsLinq\obj\Debug\ListsLinq.csprojAssemblyReference.cache
+C:\Users\back\source\repos\ListsLinq\ListsLinq\obj\Debug\ListsLinq.csproj.CoreCompileInputs.cache
+C:\Users\back\source\repos\ListsLinq\ListsLinq\bin\Debug\ListsLinq.exe.config
+C:\Users\back\source\repos\ListsLinq\ListsLinq\bin\Debug\ListsLinq.exe
+C:\Users\back\source\repos\ListsLinq\ListsLinq\bin\Debug\ListsLinq.pdb
+C:\Users\back\source\repos\ListsLinq\ListsLinq\obj\Debug\ListsLinq.exe
+C:\Users\back\source\repos\ListsLinq\ListsLinq\obj\Debug\ListsLinq.pdb

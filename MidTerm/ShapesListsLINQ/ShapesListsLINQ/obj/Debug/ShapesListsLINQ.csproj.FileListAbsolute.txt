@@ -1,0 +1,7 @@
+C:\Users\back\source\repos\ShapesListsLINQ\ShapesListsLINQ\bin\Debug\ShapesListsLINQ.exe.config
+C:\Users\back\source\repos\ShapesListsLINQ\ShapesListsLINQ\bin\Debug\ShapesListsLINQ.exe
+C:\Users\back\source\repos\ShapesListsLINQ\ShapesListsLINQ\bin\Debug\ShapesListsLINQ.pdb
+C:\Users\back\source\repos\ShapesListsLINQ\ShapesListsLINQ\obj\Debug\ShapesListsLINQ.csprojAssemblyReference.cache
+C:\Users\back\source\repos\ShapesListsLINQ\ShapesListsLINQ\obj\Debug\ShapesListsLINQ.csproj.CoreCompileInputs.cache
+C:\Users\back\source\repos\ShapesListsLINQ\ShapesListsLINQ\obj\Debug\ShapesListsLINQ.exe
+C:\Users\back\source\repos\ShapesListsLINQ\ShapesListsLINQ\obj\Debug\ShapesListsLINQ.pdb
